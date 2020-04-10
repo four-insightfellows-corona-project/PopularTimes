@@ -14,3 +14,6 @@
 	- Thoughts:
 		- can look into how to interpolate this data to other nearby time bins. 
 		- Or maybe impute it somehow based on weather data and the live popularity data for nearby time bins. 
+
+## EDA
+Please refer to jupyter notebooks in the folder 'Notebooks'
